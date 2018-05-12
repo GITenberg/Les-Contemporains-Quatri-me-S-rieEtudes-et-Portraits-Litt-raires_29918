@@ -1,0 +1,37 @@
+_repo: Les-Contemporains-Quatri-me-S-rieEtudes-et-Portraits-Litt-raires_29918
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lemaître, Jules
+    alias: Lemaitre, Jules
+    birthdate: 1853
+    deathdate: 1914
+    gutenberg_agent_id: '5505'
+    url: http://www.gutenberg.org/2009/agents/5505
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Lemaitre
+    - http://en.wikipedia.org/wiki/Jules_Lema%C3%AEtre
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2009-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29918'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, French'
+- !lcsh 'French literature -- 19th century -- History and criticism'
+- !lcc 'PQ'
+tableOfContents: Stendhal -- Baudelaire -- Mérimée -- Barbey d'Aurevilly -- Paul Verlaine
+  -- Victor Hugo -- Lamartine -- G. Sand -- Taine et Napoléon -- Sully-Prudhomme --
+  Alphonse Daudet -- Renan -- Zola -- Paul Bourget -- Jean Lahor -- Grosclaude.
+title: 'Les Contemporains, Quatrième Série
+
+  Etudes et Portraits Littéraires'
+url: http://www.gutenberg.org/ebooks/29918
