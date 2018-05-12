@@ -15,6 +15,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Lemaitre
     - http://en.wikipedia.org/wiki/Jules_Lema%C3%AEtre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29918#Les-Contemporains-Quatri-me-S-rieEtudes-et-Portraits-Litt-raires
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2009-09-06'
 gutenberg_type: Text
